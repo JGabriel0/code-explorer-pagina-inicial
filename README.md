@@ -1,1 +1,1 @@
-# code-explorer-pagina-inicial
+# Projeto de Página Inicial do Code Explorer
